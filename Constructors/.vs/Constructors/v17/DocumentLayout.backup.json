@@ -1,0 +1,58 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\Sangit\\OneDrive\\Desktop\\Constructors\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{84452938-87F8-4B36-B6A9-9D549A8F4B22}|Constructors\\Constructors.csproj|c:\\users\\sangit\\onedrive\\desktop\\constructors\\constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{84452938-87F8-4B36-B6A9-9D549A8F4B22}|Constructors\\Constructors.csproj|solutionrelative:constructors\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{84452938-87F8-4B36-B6A9-9D549A8F4B22}|Constructors\\Constructors.csproj|c:\\users\\sangit\\onedrive\\desktop\\constructors\\constructors\\constructors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{84452938-87F8-4B36-B6A9-9D549A8F4B22}|Constructors\\Constructors.csproj|solutionrelative:constructors\\constructors.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{aa2115a1-9712-457b-9047-dbb71ca2cdd2}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Constructors",
+              "DocumentMoniker": "C:\\Users\\Sangit\\OneDrive\\Desktop\\Constructors\\Constructors\\Constructors.csproj",
+              "RelativeDocumentMoniker": "Constructors\\Constructors.csproj",
+              "ToolTip": "C:\\Users\\Sangit\\OneDrive\\Desktop\\Constructors\\Constructors\\Constructors.csproj",
+              "RelativeToolTip": "Constructors\\Constructors.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2025-07-06T07:14:55.17Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\Sangit\\OneDrive\\Desktop\\Constructors\\Constructors\\Program.cs",
+              "RelativeDocumentMoniker": "Constructors\\Program.cs",
+              "ToolTip": "C:\\Users\\Sangit\\OneDrive\\Desktop\\Constructors\\Constructors\\Program.cs",
+              "RelativeToolTip": "Constructors\\Program.cs",
+              "ViewState": "AgIAAD8AAAAAAAAAAAAywFIAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-06-30T04:56:16.254Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

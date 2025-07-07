@@ -1,0 +1,12 @@
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.exe
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.deps.json
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.runtimeconfig.json
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.runtimeconfig.dev.json
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.dll
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\bin\Debug\netcoreapp3.1\Goto.pdb
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.AssemblyInfoInputs.cache
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.AssemblyInfo.cs
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.csproj.CoreCompileInputs.cache
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.dll
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.pdb
+C:\Users\Sangit\OneDrive\Desktop\Goto\Goto\obj\Debug\netcoreapp3.1\Goto.genruntimeconfig.cache

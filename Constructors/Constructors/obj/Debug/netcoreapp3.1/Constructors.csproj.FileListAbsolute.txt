@@ -1,0 +1,13 @@
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.exe
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.deps.json
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.json
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.runtimeconfig.dev.json
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\bin\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfoInputs.cache
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.AssemblyInfo.cs
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.csproj.CoreCompileInputs.cache
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.dll
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.pdb
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.genruntimeconfig.cache
+C:\Users\Sangit\OneDrive\Desktop\Constructors\Constructors\obj\Debug\netcoreapp3.1\Constructors.GeneratedMSBuildEditorConfig.editorconfig
